@@ -1,10 +1,5 @@
 <img src="https://i.imgur.com/dm0rsaq.png" width="100%">
 
-
-
-<h1 align="center">Hi 👋, I'm Miguel Salvador</h1>
-<h3 align="center">A passionate Full Stack Software Engineer</h3>
-
 <p align="left"> <a href="https://twitter.com/miguelweb19" target="blank"><img src="https://img.shields.io/twitter/follow/miguelweb19?logo=twitter&style=for-the-badge" alt="miguelweb19" /></a> </p>
 
 - 📫 How to reach me **miguelsalvadorstudios@gmail.com**
