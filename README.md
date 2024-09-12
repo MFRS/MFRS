@@ -1,3 +1,7 @@
+<img src="[https://i.imgur.com/536JNd9.jpg](https://imgur.com/a/ecFfcFN)" width="100%">
+
+
+
 <h1 align="center">Hi 👋, I'm Miguel Salvador</h1>
 <h3 align="center">A passionate Full Stack Software Engineer</h3>
 
