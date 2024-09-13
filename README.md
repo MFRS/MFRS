@@ -1,8 +1,6 @@
 <img src="https://i.imgur.com/dm0rsaq.png" width="100%">
 
-<p align="left"> <a href="https://twitter.com/miguelweb19" target="blank"><img src="https://img.shields.io/twitter/follow/miguelweb19?logo=twitter&style=for-the-badge" alt="miguelweb19" /></a> </p>
 
-- 📫 How to reach me **miguelsalvadorstudios@gmail.com**
 
 <p align="center">
   <a href="https://miguelinweb.netlify.app/" target="_blank">
