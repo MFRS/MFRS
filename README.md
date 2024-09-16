@@ -23,3 +23,8 @@ Looking to bring my skills to a tech company with global reach.
 
 See [my website](https://miguelinweb.netlify.app/) for more information!
 
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+
+  </table>
