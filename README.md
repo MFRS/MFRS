@@ -21,6 +21,5 @@ Software Engineer with 2 years of work experience focused on Full Stack Developm
 Interested in contributing to Open Source applications and help improving creative tools as a hobby.
 Looking to bring my skills to a tech company with global reach.
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfrs&show_icons=true&locale=en&layout=compact" alt="mfrs" /></p>
+See [my website](https://miguelinweb.netlify.app/) for more information!
 
