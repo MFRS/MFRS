@@ -26,7 +26,27 @@ See [my website](https://miguelinweb.netlify.app/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">CookServeRepeat™</h3>
+        <br />
+        <a target="_blank" href="https://cookserverepeat.netlify.app/">
+            <img src="images/cookServeRepeat_1_1.gif" width="100%" alt="Restaurant App"/>
+        </a>
+        <br />
+        <p><strong>Javascript,React, Node.js, & Express.js</strong> - A comprehensive full-stack application developed to enhance communication among restaurant staff, optimize profitability, and streamline operations by addressing key challenges.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Ali Baba Restaurant</h3>
+        <br />
+      <a target="_blank" href="file:///C:/Users/Migue/Documents/GitHub/alibaba-restaurant/index.html">
+            <img src="images/alibaba_1.gif" width="100%"  alt="Ali Baba Restaurant Website"/>
+        </a>
+        <br />
+        <p align="center">
+        <p><strong>Javascript, Node.Js & Express.js</strong> A web application specifically developed for a distinguished Turkish restaurant based in Bournemouth.</p>
+    </td>
+  </tr>
   </table>
 
 
