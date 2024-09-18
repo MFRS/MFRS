@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Software Engineer with 2 years of work experience focused on Full Stack Development and Automation.
+Software Engineer with 3+ years of work experience focused on Full Stack Development and Automation.
 Interested in contributing to Open Source applications and help improving creative tools as a hobby.
 Looking to bring my skills to a tech company with global reach.
 
